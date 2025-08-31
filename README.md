@@ -1,2 +1,3 @@
 # CSEB408-Full-Stack-Web-Developement
-module2:
+Hand-on-Lab
+Code
